@@ -1,5 +1,3 @@
-# app/dashboards/user_dashboard.rb
-
 require "administrate/base_dashboard"
 
 class UserDashboard < Administrate::BaseDashboard
@@ -23,7 +21,7 @@ class UserDashboard < Administrate::BaseDashboard
   COLLECTION_ATTRIBUTES = [
     :posts,
     :email,
-    :type,
+    :type
   ].freeze
 
   SHOW_PAGE_ATTRIBUTES = [
