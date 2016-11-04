@@ -6,7 +6,7 @@
 - x Post -> date:date rationale:text
 - x User -> Devise
 - x AdminUser -> STI
-- Auditlog
+- AuditLog
 
 ## Features:
 - Approval Workflow
@@ -16,9 +16,4 @@
 - Email summary to managers for approval
 - Needs to be documented if employee did not log overtime
 
-## UI:
-- x Bootstrap -> formatting
-- x Icons from Font Awesome
-- x Update the styles for forms
-
-## Refactor TODOS:
+## TODOS:
