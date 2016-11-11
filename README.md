@@ -17,9 +17,9 @@
 - x Needs to be documented if employee did not log overtime
 - x Create audit log for each text message
 - x Update the end date when an audit log is confirmed.
-- Update audit log status when an overtime is rejected.
-- Add a home icon for the homepage
-- Update buttons on employee homepage so they show on mobile.
+- x Update audit log status when an overtime is rejected.
+- x Add a home icon for the homepage
+- x Update buttons on employee homepage so they show on mobile.
 - Add the full date range in each button.
 - Update button sort order on employee homepage
 - Remove "entries" and "Request overtime" buttons for managers.
