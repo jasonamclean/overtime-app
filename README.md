@@ -16,7 +16,7 @@
 - x Email summary to managers for approval
 - x Needs to be documented if employee did not log overtime
 - x Create audit log for each text message
-- Update the end date when an audit log is confirmed.
+- x Update the end date when an audit log is confirmed.
 - Update audit log status when an overtime is rejected.
 - Add a home icon for the homepage
 - Update buttons on employee homepage so they show on mobile.
@@ -28,3 +28,6 @@
 - Implement new relic for keeping the site alive
 
 ## TODOS:
+
+
+- Heroku web address: https://wlp-overtime2.herokuapp.com/
